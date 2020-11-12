@@ -19,6 +19,6 @@ Hero section on bliis.id
 
 
 ### soyummiest
-Logo for snacks
+Logo for my friend new food business
 
-![image info](./img/soyummiest v4.png)
+![image info](./img/soyummiest.png)
