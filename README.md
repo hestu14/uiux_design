@@ -16,3 +16,9 @@ Mockup for Music Apps
 Hero section on bliis.id
 
 ![image info](./img/bliis-mockup.png)
+
+
+### soyummiest
+Logo for snacks
+
+![image info](./img/soyummiest v4.png)
